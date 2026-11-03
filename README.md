@@ -1,2 +1,2 @@
-# first-repo
-Making my first repository
+# My First Repository
+This is my first GitHub repository! Wow!
